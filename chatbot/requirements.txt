@@ -1,0 +1,8 @@
+langchain_openai
+langchain-groq
+langchain-community
+langchain
+streamlit
+langserve
+langsmith   
+langchain_core
